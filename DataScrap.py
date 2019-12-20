@@ -1,3 +1,4 @@
+#Made for the sole purpose of GCI 2019
 from bs4 import BeautifulSoup
 from tkinter import *
 from tkinter import Tk
