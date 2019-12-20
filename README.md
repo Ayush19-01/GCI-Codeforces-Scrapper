@@ -9,3 +9,4 @@
   
   3. The data is stored in variables and a tkinter window is opened shwing the required data i.e Handle, Ranking, Max Rank ,Rating and max rating.
   
+  4. If by any chance the user doesn't exist or has lack of experience and data available is negligible, an error window is popped asking the user to enter the handle again.
